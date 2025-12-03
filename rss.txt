@@ -1,0 +1,86 @@
+Dominik's Blog @ https://blog.meca.sh/rss
+DYNOMIGHT @ https://dynomight.net/feed.xml
+Glyn Normington @ https://underlap.org/feed/feed.xml
+chris dzombak @ https://www.dzombak.com/blog/rss/
+flak @ https://flak.tedunangst.com/rss
+Unplanned Obsolescence @ https://unplannedobsolescence.com/atom.xml
+taylor.town @ https://taylor.town/feed.xml
+Matthias Endler @ https://endler.dev/rss.xml
+Charles Chen @ https://chrlschn.dev/rss.xml
+Jan’s website and blog @ https://jnidzwetzki.github.io/feed.xml
+Sebastiano Tronto's blog @ https://sebastiano.tronto.net/blog/feed.xml
+Austin Z. Henley @ https://austinhenley.com/blog/feed.rss
+Adam Aaronson @ https://aaronson.org/feed.xml
+Sophie Alpert @ https://sophiebits.com/atom.xml
+Pluralistic: Daily links from Cory Doctorow @ https://pluralistic.net/feed/
+Brandon Smith @ https://www.brandons.me/feed.xml
+Articles — brandur.org @ https://brandur.org/articles.atom
+Mitchel Hashimoto @ https://mitchellh.com/feed.xml
+My Bad Opinions - Fred Hebert @ https://ferd.ca/feed.rss
+Andrew Kelley @ https://andrewkelley.me/rss.xml
+apenwarr @ https://apenwarr.ca/log/rss.php
+Evan Jones @ https://www.evanjones.ca/index.rss
+Tristan Hume @ https://thume.ca/atom.xml
+David Gomes @ https://davidgomes.com/rss/
+Bryan Cantrill @ https://bcantrill.dtrace.org/index.xml
+Go Blog @ https://go.dev/blog/feed.atom
+Golang Weekly @ https://cprss.s3.amazonaws.com/golangweekly.com.xml
+Russ Cox @ https://research.swtch.com/feed.atom
+Changelog News @ https://changelog.com/news/feed
+The Pragmatic Engineer @ https://feeds.feedburner.com/ThePragmaticEngineer
+eatonphil.com @ https://notes.eatonphil.com/rss.xml
+mcyoung @ https://mcyoung.xyz/atom.xml
+matklad @ https://matklad.github.io/feed.xml
+tpaschalis @ https://tpaschalis.me/feed.xml
+Davis Haupt's Blog @ https://davi.sh/rss.xml
+Andrew Gallant's Blog @ https://burntsushi.net/index.xml
+scattered-thoughts.net @ https://www.scattered-thoughts.net/feed.xml
+Julia Evans @ https://jvns.ca/atom.xml
+Simon Hørup Eskildsen @ https://sirupsen.com/atom.xml
+fernandohur @ https://fhur.me/feed.xml
+antirez @ https://antirez.com/rss
+Ben Hoyt @ https://benhoyt.com/writings/rss.xml
+Sylvain Kerkour @ https://kerkour.com/feed.xml
+Robert Heaton @ https://robertheaton.com/feed.xml
+Adam Johnson @ https://adamj.eu/tech/atom.xml
+Manuel Spagnolo (shikaan) @ https://shikaan.github.io/feed.xml
+Luna's Blog @ https://blog.xoria.org/atom.xml
+graydon2 frog hop @ https://graydon2.dreamwidth.org/data/atom
+Jonathan's Blog @ https://jonathan-frere.com/index.xml
+Roman Kashitsyn @ https://mmapped.blog/feed.xml
+Evan Martin on software @ https://neugierig.org/software/blog/atom.xml
+baby steps @ https://smallcultfollowing.com/babysteps/atom.xml
+AlexMillerDB @ https://transactional.blog/feed.xml
+without.boats @ https://without.boats/index.xml
+Alden Hallak @ https://aldenhallak.com/blog/rss.xml
+Steph Ango @ https://stephango.com/feed.xml
+Dan Luu @ https://danluu.com/atom.xml
+Juan Rodriguez Donado @ https://sjdonado.com/rss.xml
+Tom Renner @ https://tomrenner.com/index.xml
+Sean Goedecke's personal blog @ https://www.seangoedecke.com/rss.xml
+Armin Ronacher's Thoughts and Writings @ https://lucumr.pocoo.org/feed.atom
+Evan Hahn @ https://evanhahn.com/blog/index.xml
+Drew @ https://drew.silcock.dev/rss.xml
+Deane Barker @ https://deanebarker.net/feed/
+Simon Willison’s Weblog @ https://simonwillison.net/atom/everything/
+Anton Zhiyanov @ https://antonz.org/index.xml
+Niklas Oberhuber’s Blog @ https://obrhubr.org/feed.xml
+Jari (Sol) Komppa @ https://solhsa.com/rss.xml
+Anil Dash @ https://www.anildash.com/feed.xml
+Sam Rose @ https://samwho.dev/rss.xml
+Tim Pote's Website @ https://potetm.com/atom.xml
+Charles Chamberlain @ https://inclouds.space/feed.atom
+Annie Vella @ https://annievella.com/index.xml
+Dan North & Associates Limited @ https://dannorth.net/blog/index.xml
+Taliesyn Walker @ https://www.johnwalker.nl/feeds/rss/all.xml
+Collaborative Fund @ https://feeds.feedburner.com/collabfund
+Sophie Koonin @ https://localghost.dev/feed.xml
+Fernando Borretti @ https://borretti.me/feed.xml
+Bits and Theorems @ https://bitsandtheorems.com/feed.xml
+Giles' blog @ https://www.gilesthomas.com/feed/rss.xml
+Eliran Turgeman @ https://www.16elt.com/atom.xml
+Steve Losh @ https://stevelosh.com/rss.xml
+Jye Cusch @ https://bytemash.net/rss.xml
+DHH @ https://world.hey.com/dhh/feed.atom
+charity.wtf @ https://charity.wtf/feed/
+
