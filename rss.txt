@@ -93,3 +93,16 @@ https://seated.ro/rss.xml
 https://lukaswerner.com/feed.xml
 https://carlosbecker.com/index.xml
 https://skoredin.pro/rss.xml
+https://unworkableideas.com/feed/
+https://popovicu.com/rss.xml
+https://kyle.cascade.family/posts/index.xml
+https://blog.burkert.me/posts/index.xml
+https://www.alexedwards.net/static/feed.rss
+https://www.joanwestenberg.com/rss/
+https://www.raphkoster.com/feed/
+https://maurycyz.com/index.xml
+http://colincornaby.me/rss
+https://bell.bz/feed.xml
+https://webb.is-a.dev/index.xml
+https://joshcollinsworth.com/api/rss.xml
+https://martinfowler.com/feed.atom
