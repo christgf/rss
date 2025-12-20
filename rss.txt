@@ -156,3 +156,15 @@ https://blog.yakkomajuri.com/rss
 https://hwisnu.bearblog.dev/feed/
 https://djnn.sh/posts/index.xml
 https://www.morling.dev/blog/index.xml
+https://www.fredrikholmqvist.com/index.xml
+https://blog.carlana.net/index.xml
+https://rushter.com/blog/feed/
+https://gricha.dev/rss.xml
+https://stephenramsay.net/rss.xml
+https://jenson.org/feed
+https://www.snellman.net/blog/rss-index.xml
+https://www.hillelwayne.com/post/index.xml
+https://yaky.dev/atom.xml
+https://kibty.town/blog.rss
+https://feeds.feedburner.com/abseilio
+https://www.jmeiners.com/feed.xml
