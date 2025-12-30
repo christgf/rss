@@ -168,3 +168,15 @@ https://yaky.dev/atom.xml
 https://kibty.town/blog.rss
 https://feeds.feedburner.com/abseilio
 https://www.jmeiners.com/feed.xml
+https://codemanship.wordpress.com/rss.xml
+https://fzakaria.com/feed.xml
+https://nickmonad.blog/atom.xml
+https://george.mand.is/feed.xml
+https://blog.fogus.me/feed.xml
+https://armeet.bearblog.dev/index.xml
+https://pierce.dev/rss.xml
+https://www.andreasfragner.com/writing?format=rss
+https://www.scd31.com/posts.rss
+https://alperenkeles.com/atom.xml
+https://yorickpeterse.com/feed.xml
+https://lr0.org/blog/index.xml
