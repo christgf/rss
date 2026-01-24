@@ -283,14 +283,12 @@ https://disassociated.com/feed/
 https://www.mattcrampton.com/feed.xml
 https://quarters.captaintouch.com/blog/posts.xml
 https://mattshams.com/api/rss
-https://www.stefanjudis.com/rss.xml
 https://nikhil.io/feed.xml
 https://alexlance.blog/feed.xml
 https://jszym.com/index.xml
 https://keshavrao.com/feed.xml
 https://vinitkumar.me/rss.xml
 https://ktross.com/rss.xml
-https://peter.demin.dev/life.xml
 https://www.akpain.net/blog/feed.atom
 https://vijethph.github.io/ruminations/rss.xml
 https://joshua.hu/feed.xml
@@ -300,7 +298,6 @@ https://peterspath.net/rss.xml
 https://hdocmsu.github.io/feed.xml
 https://www.strchr.com/?feed=/
 https://www.philipithomas.com/posts.rss
-https://www.kevindangoor.com/index.xml
 https://alangrow.com/blog/atom.xml
 https://emschwartz.me/feed/
 https://brajeshwar.com/feed.xml
@@ -321,7 +318,6 @@ https://ciju.in/rss.xml
 https://johnzanussi.com/rss.xml
 https://www.kevinsdias.com/feed.xml
 https://blog.winricklabs.com/rss.xml
-https://www.bboy.app/atom.xml
 https://skushagra.com/index.xml
 https://dustinbrett.com/rss.xml
 https://www.arulpugazh.com/feed.xml
