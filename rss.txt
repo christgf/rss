@@ -1,3 +1,5 @@
+https://www.chrisgregori.dev/rss.xml
+https://dubroy.com/blog/rss.xml
 https://blog.meca.sh/rss
 https://dynomight.net/feed.xml
 https://underlap.org/feed/feed.xml
@@ -77,7 +79,6 @@ https://localghost.dev/feed.xml
 https://borretti.me/feed.xml
 https://bitsandtheorems.com/feed.xml
 https://www.gilesthomas.com/feed/rss.xml
-https://stevelosh.com/rss.xml
 https://bytemash.net/rss.xml
 https://world.hey.com/dhh/feed.atom
 https://charity.wtf/feed/
@@ -93,7 +94,6 @@ https://carlosbecker.com/index.xml
 https://skoredin.pro/rss.xml
 https://unworkableideas.com/feed/
 https://popovicu.com/rss.xml
-https://kyle.cascade.family/posts/index.xml
 https://blog.burkert.me/posts/index.xml
 https://www.alexedwards.net/static/feed.rss
 https://www.joanwestenberg.com/rss/
@@ -296,7 +296,6 @@ https://ninkovic.dev/rss.xml
 https://www.emgoto.com/rss.xml
 https://peterspath.net/rss.xml
 https://hdocmsu.github.io/feed.xml
-https://www.strchr.com/?feed=/
 https://www.philipithomas.com/posts.rss
 https://alangrow.com/blog/atom.xml
 https://emschwartz.me/feed/
