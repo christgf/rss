@@ -1,3 +1,5 @@
+https://erikjohannes.no/index.xml
+https://herman.bearblog.dev/feed/
 https://www.chrisgregori.dev/rss.xml
 https://dubroy.com/blog/rss.xml
 https://blog.meca.sh/rss
@@ -21,6 +23,7 @@ https://ferd.ca/feed.rss
 https://andrewkelley.me/rss.xml
 https://apenwarr.ca/log/rss.php
 https://www.evanjones.ca/index.rss
+https://pboyd.io/index.xml
 https://thume.ca/atom.xml
 https://davidgomes.com/rss/
 https://bcantrill.dtrace.org/index.xml
@@ -77,6 +80,7 @@ https://www.johnwalker.nl/feeds/rss/all.xml
 https://feeds.feedburner.com/collabfund
 https://localghost.dev/feed.xml
 https://borretti.me/feed.xml
+https://lemire.me/blog/feed/
 https://bitsandtheorems.com/feed.xml
 https://www.gilesthomas.com/feed/rss.xml
 https://bytemash.net/rss.xml
@@ -117,9 +121,9 @@ https://notpeerreviewed.com/rss.xml
 https://pncnmnp.github.io/rss.xml
 https://www.tomwphillips.co.uk/blog/index.xml
 https://www.dbreunig.com/feed.xml
-https://codefol.io/feed.xml
 https://blog.ploeh.dk/rss.xml
-https://pkritiotis.io/feed.xml
+https://pkritiotis.io/index.xml
+https://jarv.org/index.xml
 https://fy.blackhats.net.au/rss.xml
 https://dotat.at/@/blog.atom
 https://bessey.dev/feed.xml
@@ -146,6 +150,7 @@ https://danielchasehooper.com/feed.xml
 https://www.redblobgames.com/blog/posts.xml
 https://akkartik.name/feed
 https://nicholas.carlini.com/writing/feed.xml
+https://tonystr.net/rss.xml
 https://danielmiessler.com/feed.rss
 https://vgel.me/feed.xml
 https://blog.fillmore-labs.com/posts/index.xml
@@ -175,6 +180,7 @@ https://armeet.bearblog.dev/index.xml
 https://pierce.dev/rss.xml
 https://www.andreasfragner.com/writing?format=rss
 https://www.scd31.com/posts.rss
+https://softwaredoug.com/feed.xml
 https://yorickpeterse.com/feed.xml
 https://lr0.org/blog/index.xml
 https://bloggeroo.dev/rss.xml
@@ -187,6 +193,7 @@ https://api.stevedylan.dev/now/rss
 https://evantravers.com/essays.xml
 https://xn--gckvb8fzb.com/index.xml
 https://polluterofminds.com/feed.xml
+https://arpitbhayani.me/rss.xml
 https://artlu.xyz/rss.xml
 https://bits.caseyjr.org/feed/
 https://blog.vrypan.net/rss-en.xml
@@ -226,7 +233,7 @@ https://tiespetersen.substack.com/feed.xml
 https://www.robinlinacre.com/rss.xml
 https://tuananh.net/feed.xml
 https://bvisness.me/index.xml
-https://ossa-ma.github.io/rss
+https://ossama.is/rss
 https://kudmitry.com/articles/feed.xml
 https://www.fromjason.xyz/p/notebook/feed/feed.xml
 https://www.fromjason.xyz/p/stories/feed/feed.xml
@@ -311,7 +318,6 @@ https://blog.matthewbrunelle.com/rss/
 https://arkoinad.com/rss.xml
 https://xeiaso.net/blog.rss
 https://shahpreetk.com/blog/rss.xml
-https://law.gmnz.xyz/feed
 https://www.slater.dev/atom.xml
 https://ciju.in/rss.xml
 https://johnzanussi.com/rss.xml
