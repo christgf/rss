@@ -95,6 +95,7 @@ https://jmmv.dev/feed.xml
 https://feeds.feedburner.com/collabfund
 https://localghost.dev/feed.xml
 https://borretti.me/feed.xml
+https://boristane.com/rss.xml
 https://lemire.me/blog/feed/
 https://bitsandtheorems.com/feed.xml
 https://www.gilesthomas.com/feed/rss.xml
@@ -304,7 +305,6 @@ https://myhsu.xyz/index.xml
 https://anderegg.ca/feed.xml
 https://cassidoo.co/rss.xml
 https://tsalolikhin.com/posts/index.xml
-https://feeds.kottke.org/main
 https://www.grepular.com/rss
 https://cookie.engineer/weblog/feed.xml
 https://makc.co/feed.xml
